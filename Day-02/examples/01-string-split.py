@@ -1,3 +1,3 @@
-text = "Python is awesome"
+text = "Santosh is learning python"
 words = text.split()
-print("Words:", words)
+print(f"Words: {words}")
